@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Better Toxic Bite</name>
+	<author>ZzZombo</author>
+	<url></url>
+	<supportedVersions>
+		<li>1.1</li>
+		<li>1.2</li>
+	</supportedVersions>
+	<modDependencies></modDependencies>
+	<loadAfter></loadAfter>
+	<packageId>zzzombo.better_toxic_bite</packageId>
+	<description>Better toxic bite: no longer rots the corpse and is more harmful and lethal immediately.</description>
+</ModMetaData>
